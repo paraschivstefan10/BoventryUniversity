@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="BoventryUniversity.py" />
     <Compile Include="Humans.py" />
+    <Compile Include="Lecturers.py" />
     <Compile Include="Students.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
